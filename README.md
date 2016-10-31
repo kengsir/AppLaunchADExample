@@ -11,3 +11,5 @@
 2. 不能使用 LaunchScreen.storyBoard
 
 3. 必须要有启动图
+
+![LaunchAdsImage](http://ww1.sinaimg.cn/mw690/937882b5gw1f9bbet3o1eg20a006o1af.gif)
