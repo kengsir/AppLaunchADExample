@@ -5,6 +5,7 @@
 - 采用本地缓存加内存缓存机制，来确保启动页广告图片的快速加载 
 
 【注】：
+
 1. 使用该种模式，不能启用main.storyBoard
 
 2. 不能使用 LaunchScreen.storyBoard
