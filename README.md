@@ -6,5 +6,7 @@
 
 【注】：
 1. 使用该种模式，不能启用main.storyBoard
+
 2. 不能使用 LaunchScreen.storyBoard
+
 3. 必须要有启动图
